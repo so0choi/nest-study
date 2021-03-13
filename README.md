@@ -1,2 +1,0 @@
-# nest-study
-NestJS Study
